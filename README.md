@@ -23,6 +23,6 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 * Sequilize
 
 # Links
-[Repository: https://github.com/layc41/tech-blog](https://github.com/jhernandez50/TechBlog.git)
+[Repository: https://github.com/jhernandez50/TechBlog.git](https://github.com/jhernandez50/TechBlog.git)
 
 [Deployed Site: https://fathomless-taiga-13702.herokuapp.com/](https://fathomless-taiga-13702.herokuapp.com/)
